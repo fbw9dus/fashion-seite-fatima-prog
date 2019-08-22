@@ -61,6 +61,7 @@ header nav a:active {
 
 header nav{
     margin-right: 300px;
+    text-transform: uppercase;
 }
 
 
@@ -86,7 +87,11 @@ h2{
     font-family: 'Source Sans Pro', sans-serif;
 
  letter-spacing: 3px;
+ text-transform: uppercase;
 
+}
+h3{
+    text-transform: capitalize;
 }
 p
 {font-family: 'Merriweather Sans', sans-serif;
@@ -126,6 +131,7 @@ div.data{
     color: black;
     margin: 15px;
     padding: 10px 60px;
+    text-transform: uppercase;
     
 
 }
